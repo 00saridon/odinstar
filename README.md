@@ -46,4 +46,4 @@ Welcome to my odin-world!!
 
 **저장소 이미지** 삽입하기
 
-![프로필 이미지](./일본국보 호류지 백제관음.jpg)
+![프로필 이미지](./https://github.com/00saridon/odinstar/blob/master/%EC%9D%BC%EB%B3%B8%EA%B5%AD%EB%B3%B4%20%ED%98%B8%EB%A5%98%EC%A7%80%20%EB%B0%B1%EC%A0%9C%EA%B4%80%EC%9D%8C.jpg)

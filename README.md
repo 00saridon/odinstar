@@ -47,4 +47,3 @@ Welcome to my odin-world!!
 **저장소 이미지** 삽입하기
 
 ![일본국보 호류지 백제관음](https://user-images.githubusercontent.com/118653324/203415733-460b1c67-02f2-4a29-bd8f-b4d924817d31.jpg)
-.jpg)

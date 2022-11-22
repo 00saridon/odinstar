@@ -41,3 +41,9 @@ Welcome to my odin-world!!
  [이지퍼블리싱](https://www.easypub.co.kr)
  
  [이지퍼블리싱](https://www.easypub.co.kr, "클릭하면 이지퍼블리싱 홈페이지로 이동합니다")
+---
+## 마크다운 연습
+
+**저장소 이미지** 삽입하기
+
+![프로필 이미지](./일본국보 호류지 백제관음.jpg)

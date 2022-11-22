@@ -36,8 +36,8 @@ Welcome to my odin-world!!
   
   소스 입력 끝!
   ---
-  <https//www.easypub.co.kr>
+  <https://www.easypub.co.kr>
   
- [이지퍼블리싱](https//www.easypub.co.kr)
+ [이지퍼블리싱](https://www.easypub.co.kr)
  
- [이지퍼블리싱](https//www.easypub.co.kr, "클릭하면 이지퍼블리싱 홈페이지로 이동합니다")
+ [이지퍼블리싱](https://www.easypub.co.kr, "클릭하면 이지퍼블리싱 홈페이지로 이동합니다")
